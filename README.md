@@ -7,7 +7,7 @@ A student that completes this project shows that they can:
 * explain and use Spring Data Relationships
 * implement a data seeding class using JPA and Hibernate
 * use H2 Console and H2 IntelliJ integration to explore data
-
+ 
 ## Introduction
 
 This is a basic database scheme with customers, orders, and sales agents. This Java Spring REST API application will provide the data modeling to support the application. This is part 1 of a 3 part application series.
